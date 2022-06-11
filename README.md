@@ -21,3 +21,15 @@
 
 ![model3 epoch](https://user-images.githubusercontent.com/71535759/173185381-8149554d-08e5-4ae3-be0d-79768e8a628b.PNG)
 
+## 3.Test Accuracy
+### model 1
+![model1 result](https://user-images.githubusercontent.com/71535759/173185638-466c62c1-2fda-4371-a334-b09870f496be.PNG)
+
+### model 2
+![model 2 train](https://user-images.githubusercontent.com/71535759/173185662-3580b7c3-40d4-4298-8cdf-78d1c25e70e3.PNG)
+
+### model 3
+![model 3 train](https://user-images.githubusercontent.com/71535759/173185661-0d2dd962-5eb8-4c12-892c-97f3604aee7c.PNG)
+
+
+
