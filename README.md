@@ -46,4 +46,11 @@
 
 
 ## 5. Images and corresponding probability that predicted Wrong
+### model 1
+![model1 fail](https://user-images.githubusercontent.com/71535759/173185906-a0394b12-66d4-4dc5-bcb3-0d3e45ed313f.PNG)
 
+### model 2
+![2 fail](https://user-images.githubusercontent.com/71535759/173185915-825ba076-7bfe-4393-9597-7165c419b52e.PNG)
+
+### model 3
+![3 fail](https://user-images.githubusercontent.com/71535759/173185919-2fd5b13d-b445-4382-8e18-03e712bba303.PNG)
